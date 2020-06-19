@@ -1,0 +1,16 @@
+C:\Users\hp\source\repos\UniversityApp\UniversityApp\bin\Debug\UniversityApp.exe.config
+C:\Users\hp\source\repos\UniversityApp\UniversityApp\bin\Debug\UniversityApp.exe
+C:\Users\hp\source\repos\UniversityApp\UniversityApp\bin\Debug\UniversityApp.pdb
+C:\Users\hp\source\repos\UniversityApp\UniversityApp\obj\Debug\UniversityApp.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\UniversityApp\UniversityApp\obj\Debug\UniversityApp.ShowStudents.resources
+C:\Users\hp\source\repos\UniversityApp\UniversityApp\obj\Debug\UniversityApp.Properties.Resources.resources
+C:\Users\hp\source\repos\UniversityApp\UniversityApp\obj\Debug\UniversityApp.ShowCourses.resources
+C:\Users\hp\source\repos\UniversityApp\UniversityApp\obj\Debug\UniversityApp.StartingPage.resources
+C:\Users\hp\source\repos\UniversityApp\UniversityApp\obj\Debug\UniversityApp._ٍShowTeach.resources
+C:\Users\hp\source\repos\UniversityApp\UniversityApp\obj\Debug\UniversityApp.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\UniversityApp\UniversityApp\obj\Debug\UniversityApp.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\UniversityApp\UniversityApp\obj\Debug\UniversityApp.exe
+C:\Users\hp\source\repos\UniversityApp\UniversityApp\obj\Debug\UniversityApp.pdb
+C:\Users\hp\source\repos\UniversityApp\UniversityApp\obj\Debug\UniversityApp.AddCourse.resources
+C:\Users\hp\source\repos\UniversityApp\UniversityApp\obj\Debug\UniversityApp.AddStudent.resources
+C:\Users\hp\source\repos\UniversityApp\UniversityApp\obj\Debug\UniversityApp.AddTeacher.resources
